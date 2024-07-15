@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MS_Emcrypt_RSA_Algorithm.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QfjVzz87j4nrmwTVq6/YZquxn//z74xbGWx6st2SHsw=",
+  "Source": "MS_Emcrypt_RSA_Algorithm",
+  "BasePath": "_content/MS_Emcrypt_RSA_Algorithm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
